@@ -68,6 +68,7 @@ Co-Editor queue size = 10
 - Standard C++ libraries
 
 ### Compilation
+cd src dir in the project
 Use the provided Makefile to compile the project:
 ```
 make
